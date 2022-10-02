@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"<Unnamed>","c":"CovidStatistics","l":"CovidStatistics()","u":"%3Cinit%3E()"},{"p":"<Unnamed>","c":"Lab2","l":"Lab2()","u":"%3Cinit%3E()"},{"p":"<Unnamed>","c":"CovidStatistics","l":"main(String[])","u":"main(java.lang.String[])"},{"p":"<Unnamed>","c":"Lab2","l":"printSum()"},{"p":"<Unnamed>","c":"Lab2","l":"printTable()"}];updateSearchResults();
